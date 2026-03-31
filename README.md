@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+name = sajid khan 
+branch = CSE(core)
+year = 1st year
+university = vit bhopal 
+learning coding and ai techniques
+
 <!--
 **kingsajid7860-svg/kingsajid7860-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
